@@ -1,8 +1,11 @@
 import { createStore } from 'vuex'
 
 export default createStore({
-  state: {},
+  state: {
+    user: 'Elle Belle'
+  },
   mutations: {},
   actions: {},
   modules: {}
 })
+
