@@ -29,6 +29,26 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "92e8395a-e3c5-4279-b70e-652978a38031",
+      "category": "nature",
+      "title": "Cats",
+      "description": "a new cat event",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "10AM",
+      "organizer": "Elle Belle"
+    },
+    {
+      "id": "6c6963d4-a342-4dac-b380-579b61f62f2a",
+      "category": "nature",
+      "title": "Dogs",
+      "description": "a new dogs event",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "10am",
+      "organizer": "Elle Belle"
     }
   ]
 }
