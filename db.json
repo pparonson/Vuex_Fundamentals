@@ -29,6 +29,66 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "51b7b6f1-b741-4661-91ac-4ef0d558dd6c",
+      "category": "",
+      "title": "A great place for cats",
+      "description": "A great place for cats",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "10am",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "d47cab97-d997-43cb-b208-3d6e8d4a0b59",
+      "category": "nature",
+      "title": "A great place for cats",
+      "description": "A great place for cats",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "10am",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "3a572d71-2454-40a9-aa1f-88d576178a11",
+      "category": "housing",
+      "title": "A Dogs Place",
+      "description": "A pretty good place for dogs too",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "Denver",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "5728c3b3-a92d-434d-a3fe-0ba81aa373b6",
+      "category": "nature",
+      "title": "Elephants",
+      "description": "A new event",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "10am",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "f60a9b96-bb13-46f9-bce2-e60f892aad91",
+      "category": "nature",
+      "title": "Elephants",
+      "description": "A new event",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "10am",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "a34b7652-b20c-45ef-9e5b-053f4bf088fc",
+      "category": "nature",
+      "title": "A new event",
+      "description": "A new event",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "10am",
+      "organizer": "Adam Jahr"
     }
   ]
 }
