@@ -39,6 +39,26 @@
       "date": "September 15, 2024",
       "time": "12:00",
       "organizer": "Adam Jahr"
+    },
+    {
+      "id": "ee62fde8-e773-4990-bcf7-d2dfd2408244",
+      "category": "",
+      "title": "Cats again",
+      "description": "Another cats event",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "9AM",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "b7aeb0c1-ec50-40ad-b549-7280acef417d",
+      "category": "nature",
+      "title": "Dogs",
+      "description": "Another Dogs event",
+      "location": "New York",
+      "date": "3/17/2021",
+      "time": "8AM",
+      "organizer": "Adam Jahr"
     }
   ]
 }
